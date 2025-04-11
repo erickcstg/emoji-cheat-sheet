@@ -90,7 +90,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#smileys--emotion) | :relieved: | `:relieved:` | :pensive: | `:pensive:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :sleeping: | `:sleeping:` | | | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :sleeping: | `:sleeping:`  | | | [top](#table-of-contents) |
 
 #### Face Unwell
 
